@@ -17,6 +17,12 @@ Install dependencies
 ```
 npm install
 ```
+Create a .env file that contains the following information:
+- DATABASE_URI
+- ACCESS-TOKEN
+- REFRESH-TOKEN
+
+
 Run Program 
 ```
 npm start
